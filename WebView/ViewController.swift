@@ -12,7 +12,7 @@ import AVFoundation
 
 class ViewController: UIViewController, SFSafariViewControllerDelegate {
     
-    private let webUrl = "https://fix-asset-app.herokuapp.com/#/"
+    private let webUrl = "https://www.the-qrcode-generator.com/scan"
     
     override func viewDidLoad() {
         super.viewDidLoad()
